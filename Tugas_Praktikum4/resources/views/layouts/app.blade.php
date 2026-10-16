@@ -21,8 +21,8 @@
     <header>
         <h1>Sistem Pelaporan LaporBanjir BPBD</h1>
         <nav>
-            <a href="{{ route('lapor.create') }}">Form Pelaporan</a>
-            <a href="{{ route('lapor.index') }}">Daftar Laporan</a>
+            <a href="{{ route('lapor_banjir.create') }}">Form Pelaporan</a>
+            <a href="{{ route('lapor_banjir.index') }}">Daftar Laporan</a>
         </nav>
     </header>
 
